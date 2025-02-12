@@ -63,6 +63,6 @@
         "Demeanor_Roy": [{"color": "#DA70D6","text": "valorant"}],
         "hym": [{"color": "#C0C0C0","text": "Pollux"}]
     },
-    "NewYearMagic": true,
+    "NewYearMagic": false,
     "NewYearMagicBot": "2745513585"
 }
