@@ -2,7 +2,7 @@
     "Groups": {
         "2022": ["duisan", "HAMAS", "G1", "AC_OIer", "cjLJY", "colazcy", "KING_OF_TURTLE", "Register", "Smallbasic", "xby", "zlxFTH", "zplqwq", "zrf", "zym417"],
         "2024": ["wxccd2z", "Alex", "GGapa", "Demeanor_Roy", "hym"]
-        "2025": ["hjj", "hjq"]
+        "2025": ["hjj", "zy", "hjq"]
     },
     "NameColorList": {
         "Sukwants": ["#8e44ad"],
@@ -63,7 +63,9 @@
         "GGapa": [{"color": "#66baff","text": "dandelion"}],
         "Demeanor_Roy": [{"color": "#DA70D6","text": "valorant"}],
         "hym": [{"color": "#C0C0C0","text": "Pollux"}],
-        "GGapa": [{"color": "#6feff","text": "xxgdzrs"}]
+        "hjj": [{"color": "#6feff","text": "xxgdzrs"}],
+        "zy": [{"color": "#be6ff","text": "rand()"}],
+        "hjq": [{"color": "#5a338a","text": "lfh"}]
     },
     "NewYearMagic": true,
     "NewYearMagicBot": "2745513585"
